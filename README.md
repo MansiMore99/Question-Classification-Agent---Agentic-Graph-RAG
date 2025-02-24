@@ -8,6 +8,9 @@ Agentic RAG application on AWS Bedrock by combining vector search with graph ret
 Question-Classification-RAG-Agent: Agentic RAG application on AWS Bedrock by combining vector search with graph retrieval techniques
 
 * A helpful Assistant
+
+
+  Ahh,
   let me describe it in this way
 
 * An **AI agent** who's an expert in
