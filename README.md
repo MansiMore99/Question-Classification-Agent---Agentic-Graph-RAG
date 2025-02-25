@@ -7,13 +7,12 @@ Agentic RAG application on AWS Bedrock
 
 Question-Classification-RAG-Agent: Agentic RAG application on AWS Bedrock by combining vector search with graph retrieval techniques
 
-* A helpful Assistant
-
+#### * A helpful Assistant
 
   Ahh,
   let me describe it in this way
 
-* An **AI agent** who's an expert in
+### * An **AI agent** that
  1. Fits many roles
  2. Multipurpose
  3. Optimize for many knowledge Base
@@ -23,4 +22,13 @@ Question-Classification-RAG-Agent: Agentic RAG application on AWS Bedrock by com
 
 We are using **TrustGraph** here!
  - An agentic Orchestron platform
+
+
+
+
+#### Things we'll be using:
+
+1. Deploy TrustGraph to AWS
+2. Working with TrustGraph
+3. Working with Memgraph
 
